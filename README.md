@@ -1,1 +1,1 @@
-# duplicate-file-remover
+# Duplicate-File-Remover
